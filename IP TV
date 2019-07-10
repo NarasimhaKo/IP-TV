@@ -27,6 +27,6 @@ https://m-a6-j2apps.s.llnwi.net/Tlive/TV9Kannada/playlist_dvr_timeshift-0-10800.
 #EXTINF:0,RAJ NEWS KANNADA
 https://m-a2-j2apps.s.llnwi.net/Tlive/RajNewsKannada/playlist_dvr_timeshift-0-10800.m3u8
 #EXTINF:0, COLORS KANNADA
-kahalenews.com/wp-json/wp/v2/posts?categories%5B%5D=18&categories_exclude%5B%5D=1&page=1&per_page=12&sticky=false
+http://185.132.134.32:1100/south2019/colorskannada/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDE5IDM6MTQ6NTggQU0maGFzaF92YWx1ZT1BbFJQL25waUpOSjQyTUUrejFrRWdnPT0mdmFsaWRtaW51dGVzPTI=
 
 
