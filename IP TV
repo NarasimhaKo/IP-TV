@@ -1,4 +1,4 @@
-ext,NAMMA KUDLA
+ext,:NAMMA KUDLA
 http://livestream.webtvindia.in/namma/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 ext,NAMMA KUDLA 24×7
 http://livestream.webtvindia.in/namma247/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
@@ -24,7 +24,7 @@ ext,TV 5 KANNADA
 https://m-a1-j2apps.s.llnwi.net/Tlive/TV5Kannada/playlist_dvr_timeshift-0-10800.m3u8 
 ext,TV 9 KANNADA
 https://m-a6-j2apps.s.llnwi.net/Tlive/TV9Kannada/playlist_dvr_timeshift-0-10800.m3u8
-ext,RAJ NEWS KANNADA
+ext,:RAJ NEWS KANNADA
 https://m-a2-j2apps.s.llnwi.net/Tlive/RajNewsKannada/playlist_dvr_timeshift-0-10800.m3u8
 
 
